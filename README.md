@@ -25,7 +25,7 @@ Yakın zamanda **Back-End** alanına da yönelerek Full-Stack geliştirici olmay
 Yeni şeyler öğrenmeyi, denemeyi ve gerçek projeler üzerinde çalışmayı çok seviyorum.
 
 🌐 Kişisel portföyümü de inceleyebilirsiniz:  
-🔗 [https://tanertalas.github.io/index-tr.html](https://tanertalas.github.io/index-tr.html)
+🔗 [https://tanertalas.github.io/index.html](https://tanertalas.github.io/index.html)
 
 📫 Benimle iletişime geçmek istersen:  
 [LinkedIn → Taner Talas](https://www.linkedin.com/in/taner-talas-a43a2236a/)  
