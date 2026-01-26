@@ -1,32 +1,32 @@
 # 👋 Hello there!
 
-I'm **Taner Talas**, a Computer Programming student at **Istanbul Gedik University** 🎓  
-I'm currently focusing on **Front-End development**, building interactive, user-friendly interfaces with modern web technologies.
+I’m **Taner Talas**, I'm a second-year (final-year) Computer Programming student at **Istanbul Gedik University**. 🎓  
+
+I have a strong interest in front-end development and prefer to learn things in depth rather than just on the surface. At the moment, I’m focused on becoming highly skilled in front-end development, with the long-term goal of working in full-stack development and artificial intelligence.
 
 Soon, I plan to shift toward the **Back-End** to become a Full-Stack Developer.  
-I enjoy learning new things, experimenting with code, and building real-world projects.
 
-🌐 You can also explore my personal portfolio here:  
+🌐 You can browse my projects in my self-designed portfolio:  
 🔗 [https://tanertalas.github.io](https://tanertalas.github.io)
 
 
 📫 Feel free to reach out:  
-[LinkedIn → Taner Talas](https://www.linkedin.com/in/taner-talas-a43a2236a/)  
+🔗 LinkedIn → [Taner Talas](https://www.linkedin.com/in/taner-talas-a43a2236a/) 
+
 📧 [Email Me](mailto:r7byx0@gmail.com)
 
 ---
 
 ## 👋 Merhaba!
 
-Ben **Taner Talas**, **İstanbul Gedik Üniversitesi**'nde Bilgisayar Programcılığı öğrencisiyim 🎓  
-Şu anda **Front-End geliştirme** alanında kendimi geliştiriyor, modern web teknolojileriyle kullanıcı dostu arayüzler oluşturuyorum.
+Ben **Taner Talas**, **İstanbul Gedik Üniversitesi**'nde Bilgisayar Programlama bölümünde ikinci sınıf (son sınıf) öğrencisiyim. 🎓  
 
-Yakın zamanda **Back-End** alanına da yönelerek Full-Stack geliştirici olmayı hedefliyorum.  
-Yeni şeyler öğrenmeyi, denemeyi ve gerçek projeler üzerinde çalışmayı çok seviyorum.
+Front-end geliştirme alanına özel bir ilgim var ve bu alanda öğrendiğim konuları yüzeysel bırakmadan, detaylarına inerek öğrenmeye özen gösteriyorum. Şu anda front-end alanında kendimi ileri seviyeye taşımayı hedefliyorum; ilerleyen süreçte ise full-stack geliştirme ve yapay zekâ alanlarında çalışmak istiyorum.
 
-🌐 Kişisel portföyümü de inceleyebilirsiniz:  
-🔗 [https://tanertalas.github.io/index.html](https://tanertalas.github.io/index.html)
+🌐 Kendi tasarladığım portföyümde projelerime göz atabilirsiniz.:  
+🔗 [https://tanertalas.github.io](https://tanertalas.github.io)
 
-📫 Benimle iletişime geçmek istersen:  
-[LinkedIn → Taner Talas](https://www.linkedin.com/in/taner-talas-a43a2236a/)  
+📫 Benimle iletişime geçmek isterseniz:  
+🔗 LinkedIn → [Taner Talas](https://www.linkedin.com/in/taner-talas-a43a2236a/)  
+
 📧 [Bana e-posta gönder](mailto:r7byx0@gmail.com)
