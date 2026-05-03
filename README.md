@@ -13,7 +13,7 @@ Soon, I plan to shift toward the **Back-End** to become a Full-Stack Developer.
 📫 Feel free to reach out:  
 🔗 LinkedIn → [Taner Talas](https://www.linkedin.com/in/taner-talas-a43a2236a/) 
 
-📧 [Email Me](mailto:r7byx0@gmail.com)
+📧 [Email Me](mailto:tanertalas.dev@gmail.com)
 
 ---
 
@@ -29,4 +29,4 @@ Front-end geliştirme alanına özel bir ilgim var ve bu alanda öğrendiğim ko
 📫 Benimle iletişime geçmek isterseniz:  
 🔗 LinkedIn → [Taner Talas](https://www.linkedin.com/in/taner-talas-a43a2236a/)  
 
-📧 [Bana e-posta gönder](mailto:r7byx0@gmail.com)
+📧 [Bana e-posta gönder](mailto:tanertalas.dev@gmail.com)
