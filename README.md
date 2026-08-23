@@ -28,8 +28,8 @@
 Full-stack developer based in Istanbul, building web applications end to end — from typed API routes and Postgres schemas to 3D scenes and custom shaders in the browser.
 
 - 🧩 I like problems that sit between **product polish** and **engineering depth** — smooth interactions on the surface, sound architecture underneath.
-- 🎮 Recent work: real-time game logic with server-side answer verification, an interactive Solar System at true orbital scale, and a CNN blur classifier at **99.3% test accuracy**.
-- 🧠 Currently going deeper on **backend architecture, WebGL/GLSL, and applied machine learning**.
+- 🎮 Recent work: real-time game logic with server-side answer verification, an interactive Solar System at true orbital scale, and a 500-butterfly GPU swarm that renders in **2 draw calls**.
+- 🧠 Currently going deeper on **backend architecture, WebGL/GLSL, and real-time rendering performance**.
 - 🌐 Everything I ship lives at **[tanertalas-portfolio.vercel.app](https://tanertalas-portfolio.vercel.app)**
 
 ---
@@ -60,13 +60,12 @@ Full-stack developer based in Istanbul, building web applications end to end —
 ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=react&logoColor=61DAFB)
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
-**ML & Tooling**
+**Tooling**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Node.js](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ---
 
@@ -76,7 +75,7 @@ Full-stack developer based in Istanbul, building web applications end to end —
 | :--- | :--- | :--- |
 | **[Logo Quiz](https://github.com/TanerTalas/Logo-Quiz)** · [Live](https://logo-quiz-lake.vercel.app) | Brand-recognition game — 365 logos, 10 categories, speed-based scoring. Answers verified server-side via signed cookies so the round can't be cheated. | Next.js · React · TypeScript · PostgreSQL · Drizzle |
 | **[Solar System Journey](https://github.com/TanerTalas/Solar-System-Journey)** · [Live](https://solar-system-journey-plum.vercel.app) | Interactive 3D tour of the Solar System at true orbital spacing out to 30 AU, plus a raymarched black-hole shader with photon ring and lensing. | Next.js · React Three Fiber · TypeScript · NASA imagery |
-| **[Blur Detection](https://github.com/TanerTalas/Blur-Detection)** | CNN that classifies image blur into four levels. Custom 12,000-image dataset built from the Unsplash API — **99.33% accuracy**, 0.9933 macro F1. | Python · TensorFlow · Keras · scikit-learn |
+| **[Butterfly Swarm](https://github.com/TanerTalas/Butterfly-Swarm)** · [Live](https://butterfly-garden-khaki.vercel.app) | A living sakura meadow you can release a named butterfly into — it flies for seven days, then it's gone. 500 butterflies in **2 draw calls**, 1.29 ms/frame on the CPU. | Next.js · Three.js · TypeScript · PostgreSQL |
 | **[Flag Game](https://github.com/TanerTalas/Flag-Game)** | Full-stack "guess the country from its flag" game with a Node/Express backend. | React · Node.js · Express |
 | **[Fire Eye](https://github.com/TanerTalas/fire-eye)** | A single eye of fire in the dark — custom GLSL shader work, zero build step. | Three.js · GLSL |
 | **[Dragon](https://github.com/TanerTalas/dragon)** | A dragon that generates its own scales, roughness maps and wings procedurally in the browser. | Three.js · GLSL |
@@ -91,12 +90,17 @@ Full-stack developer based in Istanbul, building web applications end to end —
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TanerTalas&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanerTalas&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanerTalas&theme=tokyonight" alt="GitHub Stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TanerTalas&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+
+<br />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TanerTalas&theme=tokyonight" alt="Top Languages by Repo" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanerTalas&theme=tokyonight" alt="Most Commit Language" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=TanerTalas&theme=tokyonight&hide_border=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=TanerTalas&theme=tokyonight&hide_border=true" alt="Streak" />
 
 </div>
 
