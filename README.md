@@ -98,10 +98,6 @@ Full-stack developer based in Istanbul, building web applications end to end —
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TanerTalas&theme=tokyonight" alt="Top Languages by Repo" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanerTalas&theme=tokyonight" alt="Most Commit Language" />
 
-<br /><br />
-
-<img src="https://streak-stats.demolab.com/?user=TanerTalas&theme=tokyonight&hide_border=true" alt="Streak" />
-
 </div>
 
 ---
