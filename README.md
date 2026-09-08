@@ -108,10 +108,6 @@ Full-stack developer based in Istanbul, building web applications end to end —
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
 
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanerTalas&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="Contribution activity graph" />
-
 </div>
 
 ---
