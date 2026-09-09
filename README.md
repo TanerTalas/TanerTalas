@@ -91,7 +91,6 @@ Full-stack developer based in Istanbul, building web applications end to end —
 <div align="center">
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanerTalas&theme=tokyonight" alt="GitHub Stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TanerTalas&theme=tokyonight&utcOffset=3" alt="Productive Time" />
 
 <br />
 
